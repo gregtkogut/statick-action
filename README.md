@@ -1,6 +1,6 @@
 # statick-action
 
-![Statick](https://github.com/sscpac/statick-action/workflows/Statick/badge.svg)
+![Statick](https://github.com/gregtkogut/statick-action/workflows/Statick/badge.svg)
 
 This is a **GitHub Action** that runs the **[Statick](https://github.com/sscpac/statick)** static code analysis tool.
 
