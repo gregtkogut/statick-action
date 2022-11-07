@@ -1,4 +1,4 @@
-FROM ghcr.io/gregtkogut/statick:1.1.0
+FROM ghcr.io/gregtkogut/statick-action:image-test
 
 LABEL "name"="Statick Action"
 LABEL "version"="1.1.0"
