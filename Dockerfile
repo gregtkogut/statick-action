@@ -1,5 +1,4 @@
-FROM ghcr.io/gregtkogut/statick-action:image-test
-
+FROM ghcr.io/gregtkogut/statick:1.1.0
 LABEL "name"="Statick Action"
 LABEL "version"="1.1.0"
 LABEL "repository"="https://github.com/sscpac/statick-action.git"
