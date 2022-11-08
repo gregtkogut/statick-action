@@ -50,8 +50,8 @@ fi
 # shellcheck disable=SC1091
 . /opt/venv/bin/activate
 
-# shellcheck disable=SC2086
 echo "Running statick with command: statick $STATICK_ARGS"
+# shellcheck disable=SC2086
 statick $STATICK_ARGS
 
 exit_code=$?
