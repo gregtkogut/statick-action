@@ -51,6 +51,7 @@ fi
 . /opt/venv/bin/activate
 
 # shellcheck disable=SC2086
+echo "Running statick with command: statick $STATICK_ARGS"
 statick $STATICK_ARGS
 
 exit_code=$?
